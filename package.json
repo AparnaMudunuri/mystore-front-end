@@ -11,6 +11,10 @@
     "redux": "^4.0.4",
     "redux-thunk": "^2.3.0"
   },
+  "engine": {
+    "node": "*",
+    "npm": "*"
+  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
